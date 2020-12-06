@@ -1,0 +1,16 @@
+## Interface: 90001
+## Title: BannerTracker
+## Author: Peter Clough
+## SavedVariables: BannerTrackerDB
+
+
+embeds.xml
+
+Initialize.lua
+Utilities.lua
+Core.lua
+
+Comms.lua
+CalcEvents.lua
+Events.lua
+Interface.lua
